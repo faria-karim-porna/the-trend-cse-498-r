@@ -1,0 +1,26 @@
+.card{
+    width: 18em;
+}
+.col-md-auto{
+    margin-top: 3vh;
+}
+.container
+{
+    margin-top: 3vh;
+    margin-left: 30vh !important;
+}
+.text{
+    border-bottom: 2px solid red;
+    color: red;
+    font-weight: bolder;
+    font-size: 30px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+}
+@media (max-width: 575.98px) { 
+    .container
+    {
+
+        margin-left: 15vh !important;
+    }
+}

@@ -1,0 +1,30 @@
+.card{
+    width: 18em;
+}
+.col-md-auto{
+    margin-top: 3vh;
+}
+.container
+{
+    margin-top: 3vh;
+    margin-left: 30vh !important;
+}
+
+
+@media (max-width: 575.98px) { 
+    .container
+    {
+        margin-left: 15vh !important;
+    }
+}
+.product_details
+{
+    padding-top: 100px !important;
+}
+.border-design{
+    border: 2px solid red;
+    border-radius: 15px;
+    color: red;
+    box-shadow: 5px 5px 10px lightgray;
+    padding-bottom: 10px;
+}

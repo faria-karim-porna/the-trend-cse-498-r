@@ -1,0 +1,11 @@
+.cartProducts{
+    padding-bottom: 20px !important;
+    border-bottom: 1px solid red;
+    color: red;
+}
+@media (max-width: 575.98px) { 
+    .container
+    {
+        margin-left: 15vh !important;
+    }
+}

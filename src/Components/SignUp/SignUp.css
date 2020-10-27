@@ -1,0 +1,131 @@
+
+.form-control {
+    font-size: 16px;
+    transition: all 0.4s;
+    box-shadow: none;
+}
+
+.form-control .btn {
+    outline: none !important;
+}
+.signup-form {
+    width: 480px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+.signup-form form {
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background: red;
+    border: 1px solid white;
+    padding: 40px;
+    border-radius: 15px !important;
+}
+.signup-form a {
+    color: white;
+}    
+.signup-form h2 {
+    text-align: center;
+    font-size: 34px;
+    margin: 10px 0 15px;
+}
+.signup-form .hint-text {
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.signup-form .form-group {
+    margin-bottom: 20px;
+}
+.signup-form .btn {        
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+.signup-btn {
+    text-align: center;
+    color: red !important;
+    background-color:white !important;
+    border-color: white !important;
+    transition: all 0.4s;
+    border-radius: 15px !important;
+}
+.signup-btn:hover {
+    background: white;
+    opacity: 0.8;
+}
+
+
+.icons{
+    text-align: left;
+    width: 25px;
+    height: 25px;
+}
+.input-lg{
+  border: none !important;
+  border-bottom: 1px solid white !important;
+  
+}
+::placeholder {
+    color: white !important;
+    opacity: 1; /* Firefox */
+  }
+ 
+  input{
+      background-color: red !important;
+      color: white !important;
+  }
+ 
+  .text-center{
+      color: white;
+  }
+  .signup-btn {
+    text-align: center;
+    color: red !important;
+    background-color:white red !important;
+    border-color: white !important;
+    transition: all 0.4s;
+}
+.signup-btn:hover {
+    background:white;
+    opacity: 0.8;
+}
+.or-seperator {
+    margin: 50px 0 5px;
+    text-align: center;
+    border-top: 2px solid #e0e0e0;
+}
+.or-seperator b {
+    padding: 0 10px;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+    background:;
+    display: inline-block;
+    position: relative;
+    top: -22px;
+    z-index: 1;
+}
+.social-btn .btn {
+    background-color: red;
+    font-size: 15px;
+    border-radius: 50px;
+    font-weight: normal;
+    width: 100%;
+    border: none;
+    transition: all 0.4s;
+    border: 1px solid lightgray;
+}
+.alert{
+    color: black;
+    text-align: center;
+}
+.buttonClass{
+    color: red !important;
+}
+.buttonClass:hover{
+    text-decoration: none;
+}

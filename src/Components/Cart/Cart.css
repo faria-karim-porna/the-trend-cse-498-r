@@ -1,0 +1,8 @@
+.cart{
+    position: fixed;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    text-align: center;
+}
